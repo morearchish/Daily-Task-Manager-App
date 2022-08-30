@@ -2,10 +2,6 @@
 
 This is a daily task manager application project created in flutter.
 
-Install this application on Android -
-- [Install from Play Store](https://play.google.com/store/apps/details?id=bornomala.todo)
-
-
 ## Getting Started
 
 Step-1: Download or clone this repository -
